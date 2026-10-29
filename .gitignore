@@ -1,0 +1,9 @@
+.venv/
+.hf_cache/
+embeddings/
+slurm-*.out
+__pycache__/
+data/
+dataset/
+logs/
+runs/
